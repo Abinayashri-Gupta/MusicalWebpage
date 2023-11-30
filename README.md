@@ -40,3 +40,4 @@ The project is organized as follows:
 2. Navigate to [http://localhost:3979/indextwo.html](http://localhost:3979/indextwo.html) for the musical webpage layout.
 
 3. Finally, visit [http://localhost:3979/indexthree.html](http://localhost:3979/indexthree.html) for the thank you page.
+
